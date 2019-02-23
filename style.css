@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 4em 1em;
+  font-family: "Helvetica";
+line-height: 1.5;
+color: #34495E;
+background-color: #F1F0F0;
+}
